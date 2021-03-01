@@ -26,7 +26,7 @@ def main_elements():
     row1_1, row1_2 = st.beta_columns([2, 1])
 
     with row1_1:
-        logo_css("АО РОСГЕОЛОГИЯ", align="left", clr="#07689F", size=33)
+        logo_css("АО XXXXXXXX", align="left", clr="#07689F", size=33)
         # logo_css(
         #     "<i>Департамент по восстановлению и утилизации<br>трубной продукции</i>",
         #     align="left",
